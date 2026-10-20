@@ -1,6 +1,6 @@
 cask "wort" do
-  version "51"
-  sha256 "b8625dda773e7c9be93a57da782e406fcc94e29de94ca8af0b95b7cbe8dfe09d"
+  version "53"
+  sha256 "5b03c30cee7ca93609f0e733ea641d9f9ed8f53f0ace8d088f8bb251dc71f9c2"
 
   url "https://github.com/atadatcu/wort-builder/releases/download/v#{version}/Wort.dmg"
   name "Wort"
